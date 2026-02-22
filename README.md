@@ -33,3 +33,16 @@ Clone the repository:
 ```bash
 git clone https://github.com/YOUR_USERNAME/TalkScript-Voice-Transcription.git
 cd TalkScript-Voice-Transcription
+
+---
+## 🏗 System Architecture
+
+1. User uploads .ogg voice file  
+2. Audio converted to .wav using Pydub  
+3. SpeechRecognition processes audio  
+4. Google API returns transcribed text  
+5. Transcript saved as .txt file  
+6. User downloads transcript
+
+---
+⭐ If you found this project useful, consider giving it a star.
