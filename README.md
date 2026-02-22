@@ -24,9 +24,16 @@ It is designed to help students, professionals, and researchers quickly transcri
 - Gradio
 - Google Speech Recognition API
 
----
 
 ---
+## 📦 Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/YOUR_USERNAME/TalkScript-Voice-Transcription.git
+cd TalkScript-Voice-Transcription
+
 ## 🏗 System Architecture
 
 1. User uploads .ogg voice file  
@@ -39,12 +46,17 @@ It is designed to help students, professionals, and researchers quickly transcri
 ---
 ⭐ If you found this project useful, consider giving it a star.
 
-## 📦 Installation
+---
 
-Clone the repository:
+TalkScript-Voice-Transcription/
+│
+├── app.py
+├── requirements.txt
+├── README.md
+└── assets/
+      ├── screenshot.png
+      └── demo.mp4
 
-```bash
-git clone https://github.com/YOUR_USERNAME/TalkScript-Voice-Transcription.git
-cd TalkScript-Voice-Transcription
+
 
 
