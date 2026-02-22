@@ -26,14 +26,6 @@ It is designed to help students, professionals, and researchers quickly transcri
 
 ---
 
-## 📦 Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/YOUR_USERNAME/TalkScript-Voice-Transcription.git
-cd TalkScript-Voice-Transcription
-
 ---
 ## 🏗 System Architecture
 
@@ -46,3 +38,13 @@ cd TalkScript-Voice-Transcription
 
 ---
 ⭐ If you found this project useful, consider giving it a star.
+
+## 📦 Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/YOUR_USERNAME/TalkScript-Voice-Transcription.git
+cd TalkScript-Voice-Transcription
+
+
