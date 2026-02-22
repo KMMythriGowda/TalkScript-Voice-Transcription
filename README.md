@@ -1,7 +1,7 @@
 # 🎙 TalkScript – AI-Powered Voice Transcription System
 
-TalkScript is a multilingual AI-based web application that converts WhatsApp voice notes (.ogg files) into text instantly.
-
+TalkScript is an AI-powered web application that converts WhatsApp .ogg voice notes into editable text using speech recognition.
+It supports multilingual transcription and provides downloadable transcripts.
 It is designed to help students, professionals, and researchers quickly transcribe voice messages into readable text.
 
 ---
