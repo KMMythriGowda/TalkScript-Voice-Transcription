@@ -33,3 +33,10 @@ Clone the repository:
 ```bash
 git clone https://github.com/YOUR_USERNAME/TalkScript-Voice-Transcription.git
 cd TalkScript-Voice-Transcription
+
+Install dependencies:
+``pip install -r requirements.txt``
+
+Run the app:
+
+``python app.py``
